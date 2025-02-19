@@ -1,3 +1,7 @@
+# Please enjoy my lighthearted hoes and problems calculator. I added a function to handle errors
+# in the input, and to clear the terminal when the calculator is run.
+
+
 import os
 
 def errorless_float(prompt):
